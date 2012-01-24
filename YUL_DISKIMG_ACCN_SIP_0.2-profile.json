@@ -1,0 +1,47 @@
+{
+    "YUL-Profile-Identifier": {
+        "defaultValue": "YUL_DISKIMG_ACCN_SIP",
+        "isReadOnly": true,
+        "fieldRequired": true
+    },
+    "YUL-Profile-Version": {
+        "defaultValue": "0.2",
+        "isReadOnly": true,
+        "fieldRequired": true
+    },
+    "YUL-Profile-Description": {
+        "defaultValue": "Used for packaging born-digital archival material contained within forensic or logical disk images.",
+        "isReadOnly": true,
+        "fieldRequired": true
+    },
+    "YUL-Profile-Maintainer": {
+        "defaultValue": "mark.matienzo@yale.edu",
+        "isReadOnly": true,
+        "fieldRequired": true
+    },
+    "External-Identifier": {
+        "fieldRequired": true
+    },
+    "External-Description": {
+        "fieldRequired": false
+    },
+    "Source-Organization": {
+        "defaultValue": "Yale University Library",
+        "isReadOnly": true,
+        "fieldRequired": true,
+    },
+    "YUL-Forms-Part-Of": {
+        "fieldRequired": false,
+    },
+    "YUL-Accession-Number": {
+        "fieldRequired": true,
+        "fieldType": "TF",
+        "isReadOnly": false
+    },
+    "YUL-Source-Department": {
+        "valueList": ["Manuscripts and Archives",
+                      "Beinecke Rare Book and Manuscript Library"],
+        "fieldRequired": true
+    }
+
+}
