@@ -1,0 +1,26 @@
+{
+    "External-Identifier": {
+        "fieldRequired": true
+    },
+    "External-Description": {
+        "fieldRequired": true
+    },
+    "Source-Organization": {
+        "fieldRequired": true,
+        "fieldType": "LF",
+        "isReadOnly": false,
+        "valueList": ["Manuscripts and Archives, Yale University Library",
+                      "Beinecke Rare Book and Manuscript Library, Yale University Library"]
+    },
+	"Forms-Part-Of": {
+        "fieldRequired": true,
+        "fieldType": "TF",
+        "isReadOnly": false
+    },
+    "Accession-Number": {
+        "fieldRequired": true,
+        "fieldType": "TF",
+        "isReadOnly": false
+    }
+
+}
