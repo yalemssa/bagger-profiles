@@ -35,8 +35,6 @@
     },
     "YUL-Accession-Number": {
         "fieldRequired": true,
-        "fieldType": "TF",
-        "isReadOnly": false
     },
     "YUL-Source-Department": {
         "valueList": ["Manuscripts and Archives",
